@@ -7,7 +7,7 @@ cask "oneko" do
   desc "oneko for macos 10.9 and higher"
   homepage "https://github.com/mdonoughe/neko-mac"
 
-  depends_on macos: ">= :mavericks"
+  depends_on macos: ">= :catalina"
 
   app "Neko.app"
 
