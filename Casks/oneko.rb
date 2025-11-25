@@ -10,6 +10,4 @@ cask "oneko" do
   depends_on macos: ">= :catalina"
 
   app "Neko.app"
-
-  login_item "Neko", hide: true
 end
