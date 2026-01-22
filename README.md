@@ -2,7 +2,7 @@
 
 ### Installation
 
-`brew install bvndls/tap/logi-optins-offline`
+`brew install bvndls/tap/logi-options-offline`
 
 or
 
